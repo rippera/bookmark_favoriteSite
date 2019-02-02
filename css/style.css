@@ -1,0 +1,90 @@
+.container{
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+}
+.second-container{
+    max-width: 700px;
+    width: 100%;
+    margin: 50px auto;
+    background: #E0E0E0;
+    padding: 20px;
+    border-radius: 10px;
+    /* margin-bottom: 50px; */
+}
+.title-name{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+.form-group{
+    text-align: center;
+}
+.form-controler{
+    width: 100%;
+    outline: none;
+    border: none;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+.label-controler{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.btn-submit{
+    border: none;
+    outline: none;
+    background: #2196F3;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 0 auto;
+    cursor: pointer;
+}
+.output-parent{
+    margin-top: 100px;
+}
+
+.btn-red{
+    background: red;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    color: white;
+    text-transform: capitalize;
+}
+.btn-gray{
+    background: gray;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    color: white;
+    margin-right: 10px;
+    text-transform: capitalize;
+}
+.footer{
+    padding-top: 100px;
+    text-align: center;
+    
+}
+.bookmarks{
+    display: flex;
+
+}
+.bookmarks{
+    max-width: 700px;
+    width: 100%;
+    margin: 0 auto;
+    background: #E0E0E0;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.bookmarks-h3{
+    font-size: 24px;
+    text-transform: capitalize;
+    margin-right: 10px;
+    letter-spacing: 2px;
+}
